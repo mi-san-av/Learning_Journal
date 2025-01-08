@@ -10,7 +10,8 @@ It includes:
 - **Study Notes:** Insights and summaries from courses I’ve followed, helping me solidify and review important concepts.
 - **Exercises:** Small, focused tasks and challenges that I’ve completed as part of my learning process.
 
-#Included Topics
+##Included Topics
+
 This repository primarily focuses on the following subjects:
 
 - **Programming Languages:** Python, C, Java, HTML, and other languages as I progress.
